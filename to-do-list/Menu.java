@@ -2,7 +2,7 @@ package todolist;
 
 import java.util.Scanner;
 
-public class Operacoes_Menu {
+public class menu {
     Scanner sc = new Scanner(System.in);
     int opcao = -1;
 
