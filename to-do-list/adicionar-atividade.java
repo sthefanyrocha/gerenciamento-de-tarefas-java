@@ -3,7 +3,7 @@ package todolist;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Operacoes_Cadastro {
+public class addNova {
     Scanner sc = new Scanner(System.in);
     HashMap<String, String> atividades = new HashMap<>();
     HashMap<String, String> atividadesPendentes = new HashMap<>();
